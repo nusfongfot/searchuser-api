@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/searchuser-api/static/css/main.bd5aa9f7.css",
+    "main.js": "/searchuser-api/static/js/main.57f3f59d.js",
+    "index.html": "/searchuser-api/index.html",
+    "main.bd5aa9f7.css.map": "/searchuser-api/static/css/main.bd5aa9f7.css.map",
+    "main.57f3f59d.js.map": "/searchuser-api/static/js/main.57f3f59d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd5aa9f7.css",
+    "static/js/main.57f3f59d.js"
+  ]
+}
